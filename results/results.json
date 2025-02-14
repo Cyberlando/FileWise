@@ -1,0 +1,258 @@
+[
+  {
+    "name": ".gitignore",
+    "path": "C:/Users/{USER}/repos/dfat/.gitignore",
+    "size": 0,
+    "ext": "gitignore",
+    "encoding": "UTF-8",
+    "is_binary": false
+  },
+  {
+    "name": "FETCH_HEAD",
+    "path": "C:/Users/{USER}/repos/dfat/.git/FETCH_HEAD",
+    "size": 0,
+    "ext": "{BLANK}",
+    "encoding": "UTF-8",
+    "is_binary": false
+  },
+  {
+    "name": "README.md",
+    "path": "C:/Users/{USER}/repos/dfat/README.md",
+    "size": 0.083984375,
+    "ext": "md",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "HEAD",
+    "path": "C:/Users/{USER}/repos/dfat/.git/HEAD",
+    "size": 0.0224609375,
+    "ext": "{BLANK}",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "go.mod",
+    "path": "C:/Users/{USER}/repos/dfat/go.mod",
+    "size": 0.0947265625,
+    "ext": "mod",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "config",
+    "path": "C:/Users/{USER}/repos/dfat/.git/config",
+    "size": 0.126953125,
+    "ext": "{BLANK}",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "go.sum",
+    "path": "C:/Users/{USER}/repos/dfat/go.sum",
+    "size": 0.2255859375,
+    "ext": "sum",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "main.exe",
+    "path": "C:/Users/{USER}/repos/dfat/main.exe",
+    "size": 2983.5,
+    "ext": "exe",
+    "encoding": "windows-1252",
+    "is_binary": true
+  },
+  {
+    "name": "description",
+    "path": "C:/Users/{USER}/repos/dfat/.git/description",
+    "size": 0.0712890625,
+    "ext": "{BLANK}",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "main.go",
+    "path": "C:/Users/{USER}/repos/dfat/main.go",
+    "size": 6.3193359375,
+    "ext": "go",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "index.lock",
+    "path": "C:/Users/{USER}/repos/dfat/.git/index.lock",
+    "size": 0,
+    "ext": "lock",
+    "encoding": "UTF-8",
+    "is_binary": false
+  },
+  {
+    "name": ".gitkeep",
+    "path": "C:/Users/{USER}/repos/dfat/templates/.gitkeep",
+    "size": 0,
+    "ext": "gitkeep",
+    "encoding": "UTF-8",
+    "is_binary": false
+  },
+  {
+    "name": "exclude",
+    "path": "C:/Users/{USER}/repos/dfat/.git/info/exclude",
+    "size": 0.234375,
+    "ext": "{BLANK}",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": ".gitkeep",
+    "path": "C:/Users/{USER}/repos/dfat/results/.gitkeep",
+    "size": 0,
+    "ext": "gitkeep",
+    "encoding": "UTF-8",
+    "is_binary": false
+  },
+  {
+    "name": ".gitkeep",
+    "path": "C:/Users/{USER}/repos/dfat/static/.gitkeep",
+    "size": 0,
+    "ext": "gitkeep",
+    "encoding": "UTF-8",
+    "is_binary": false
+  },
+  {
+    "name": ".gitkeep",
+    "path": "C:/Users/{USER}/repos/dfat/splitter/.gitkeep",
+    "size": 0,
+    "ext": "gitkeep",
+    "encoding": "UTF-8",
+    "is_binary": false
+  },
+  {
+    "name": "applypatch-msg.sample",
+    "path": "C:/Users/{USER}/repos/dfat/.git/hooks/applypatch-msg.sample",
+    "size": 0.466796875,
+    "ext": "sample",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "splitter.exe",
+    "path": "C:/Users/{USER}/repos/dfat/splitter/splitter.exe",
+    "size": 2738.5,
+    "ext": "exe",
+    "encoding": "windows-1252",
+    "is_binary": true
+  },
+  {
+    "name": "commit-msg.sample",
+    "path": "C:/Users/{USER}/repos/dfat/.git/hooks/commit-msg.sample",
+    "size": 0.875,
+    "ext": "sample",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "splitter.go",
+    "path": "C:/Users/{USER}/repos/dfat/splitter/splitter.go",
+    "size": 1.560546875,
+    "ext": "go",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "fsmonitor-watchman.sample",
+    "path": "C:/Users/{USER}/repos/dfat/.git/hooks/fsmonitor-watchman.sample",
+    "size": 4.615234375,
+    "ext": "sample",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "post-update.sample",
+    "path": "C:/Users/{USER}/repos/dfat/.git/hooks/post-update.sample",
+    "size": 0.1845703125,
+    "ext": "sample",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "pre-applypatch.sample",
+    "path": "C:/Users/{USER}/repos/dfat/.git/hooks/pre-applypatch.sample",
+    "size": 0.4140625,
+    "ext": "sample",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "pre-commit.sample",
+    "path": "C:/Users/{USER}/repos/dfat/.git/hooks/pre-commit.sample",
+    "size": 1.6103515625,
+    "ext": "sample",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "pre-merge-commit.sample",
+    "path": "C:/Users/{USER}/repos/dfat/.git/hooks/pre-merge-commit.sample",
+    "size": 0.40625,
+    "ext": "sample",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "pre-push.sample",
+    "path": "C:/Users/{USER}/repos/dfat/.git/hooks/pre-push.sample",
+    "size": 1.341796875,
+    "ext": "sample",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "pre-rebase.sample",
+    "path": "C:/Users/{USER}/repos/dfat/.git/hooks/pre-rebase.sample",
+    "size": 4.783203125,
+    "ext": "sample",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "pre-receive.sample",
+    "path": "C:/Users/{USER}/repos/dfat/.git/hooks/pre-receive.sample",
+    "size": 0.53125,
+    "ext": "sample",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "prepare-commit-msg.sample",
+    "path": "C:/Users/{USER}/repos/dfat/.git/hooks/prepare-commit-msg.sample",
+    "size": 1.45703125,
+    "ext": "sample",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "push-to-checkout.sample",
+    "path": "C:/Users/{USER}/repos/dfat/.git/hooks/push-to-checkout.sample",
+    "size": 2.7177734375,
+    "ext": "sample",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "sendemail-validate.sample",
+    "path": "C:/Users/{USER}/repos/dfat/.git/hooks/sendemail-validate.sample",
+    "size": 2.25390625,
+    "ext": "sample",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  },
+  {
+    "name": "update.sample",
+    "path": "C:/Users/{USER}/repos/dfat/.git/hooks/update.sample",
+    "size": 3.564453125,
+    "ext": "sample",
+    "encoding": "ISO-8859-1",
+    "is_binary": false
+  }
+]

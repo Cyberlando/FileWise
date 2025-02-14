@@ -1,0 +1,18 @@
+[
+  {
+    "name": "main.exe",
+    "path": "C:/Users/{USER}/repos/dfat/main.exe",
+    "size": 2983.5,
+    "ext": "exe",
+    "encoding": "windows-1252",
+    "is_binary": true
+  },
+  {
+    "name": "splitter.exe",
+    "path": "C:/Users/{USER}/repos/dfat/splitter/splitter.exe",
+    "size": 2738.5,
+    "ext": "exe",
+    "encoding": "windows-1252",
+    "is_binary": true
+  }
+]
